@@ -8,11 +8,12 @@
 
 ## 第一章 Pandas DataFrame 基础知识
 
+### [习题](01-dataframe-basic/questions.ipynb) --- [答案](01-dataframe-basic/answer-questions.ipynb)
+
 * 学习开始读取本地的 Excel 文件
 * 学习开始操作 DataFrame
 * 了解索引(index) 的基础概念
 * 这一章知识有点综合，想让大对 DataFrame 有一个全面的认识
 * 这一次学不会，没关系，后面还会重复讲
 
- [习题](01-dataframe-basic/questions.ipynb), [答案](01-dataframe-basic/answer-questions.ipynb)
 
