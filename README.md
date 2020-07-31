@@ -16,4 +16,29 @@
 * 这一章知识有点综合，想让大对 DataFrame 有一个全面的认识
 * 这一次学不会，没关系，后面还会重复讲
 
+## 第二章
+
+### [习题](02-more-pandas/questions.ipynb) --- [答案](02-more-pandas/answer-questions.ipynb)
+
+*
+
+## 第四章
+
+### [习题](04-concat-merge/questions.ipynb) --- [答案](04-concat-merge/answer-questions.ipynb)
+
+*
+
+## 第五章
+
+### [习题](05-missing/questions.ipynb) --- [答案](05-missing/answer-questions.ipynb)
+
+*
+
+## 第六章
+
+### [习题](06-tidy/questions.ipynb) --- [答案](06-tidy/answer-questions.ipynb)
+
+*
+
+
 
