@@ -1,10 +1,11 @@
-# Panadas习题集2 (PE2)
+# Panadas 小书 
 
-历史上我用过很多本 Pandas 习题集，我想再写一本
+历史上我用过很多本 Pandas 习题集/图书
 
 ![Pandas](images/book_preface.jpg)
 
-我们现在用这本书，我想根据这本书，写一本更好的的习题集！
+我们现在用这本书，我想根据这本书，写一本更好的小书！
+
 
 ## 第一章 Pandas DataFrame 基础知识
 
@@ -37,6 +38,12 @@
 ## 第六章
 
 ### [习题](06-tidy/questions.ipynb) --- [答案](06-tidy/answer-questions.ipynb)
+
+*
+
+## 第七章 数据类型转换
+
+### [习题](07-data-type/questions.ipynb) --- [答案](07-data-type/answer-questions.ipynb)
 
 *
 
