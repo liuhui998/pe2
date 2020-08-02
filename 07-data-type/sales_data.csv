@@ -1,0 +1,8 @@
+seller_name,sku,quantity
+Tom,A1234,100
+Tom,A1235,200
+Tom,A1236,300
+Tom,A1237,missing
+李老板,A1234,200
+李老板,A1235,100
+李老板,A1237,断货

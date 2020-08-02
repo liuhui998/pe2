@@ -45,7 +45,17 @@
 
 ### [习题](07-data-type/questions.ipynb) --- [答案](07-data-type/answer-questions.ipynb)
 
-*
+* 如何处理混合数据类型的问题
+* 如何处理 NA 不是空值的问题
+* 如何处理客户错填的销量信息
 
+
+
+## 第八章 字符串和文本数据
+
+### [习题](08-string/questions.ipynb) --- [答案](08-string/answer-questions.ipynb)
+
+* 如何去掉销售数据中的货币单位
+* 如何从客户邮件中提取电话号码
 
 
