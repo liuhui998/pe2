@@ -58,4 +58,24 @@
 * 如何去掉销售数据中的货币单位
 * 如何从客户邮件中提取电话号码
 
+## 第九章 应用
+
+### [习题](09-apply/questions.ipynb) --- [答案](09-apply/answer-questions.ipynb)
+
+* 如何去掉销售数据中的货币单位
+* 先使用函数来去掉
+* 再使用 Lambda 来去掉
+
+## 第十章 数据分组操作
+
+### [习题](10-groupby/questions.ipynb) --- [答案](10-groupby/answer-questions.ipynb)
+
+* 
+
+## 第十一章 时间序列
+
+### [习题](11-time-series/questions.ipynb) --- [答案](11-time-series/answer-questions.ipynb)
+
+* 
+
 
