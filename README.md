@@ -76,6 +76,10 @@
 
 ### [习题](11-time-series/questions.ipynb) --- [答案](11-time-series/answer-questions.ipynb)
 
-* 
+* 什么移动平均
+* 怎么查看数据趋势
+* 怎么简单判断趋势的转折点
+* 如何把天的数据变成季度/周等
+* plotly express 新的用法
 
 
